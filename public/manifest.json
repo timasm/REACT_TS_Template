@@ -1,0 +1,12 @@
+{
+    "sap.app": {
+      "id": "LeaS4-VIS-UI",
+      "applicationVersion": {
+        "version": "1.0.0"
+      }
+    },
+    "sap.cloud": {
+      "service": "LeaS4_VIS_UI_Router"
+    }
+  }
+  
